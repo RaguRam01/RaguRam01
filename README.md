@@ -23,36 +23,7 @@ A clean, modern documentation created with a premium design philosophy — clari
 
 <br>
 
----
 
-## ✦ **Overview**
-
-This guide explains how to resolve the common browser message:
-
-> **“Please Enable Cookies to Continue”**  
-> (Often seen on sites like Amazon.co.uk)
-
-The approach is refined, simple, and efficient.
-
-<br>
-
----
-
-
-
-
-
-## ✦ **Design Philosophy**
-
-- Clean  
-- Subtle  
-- Zero visual noise  
-- Professional tone  
-- Trustworthy aesthetic  
-
-<br>
-
----
 
 <div align="center">
 
