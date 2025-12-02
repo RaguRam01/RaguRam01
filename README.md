@@ -38,36 +38,9 @@ The approach is refined, simple, and efficient.
 
 ---
 
-## ✦ **Solution Summary**
 
-### **1. Enable Cookies**
-Activate cookies in Chrome, Firefox, or Edge under privacy settings.
 
-### **2. Clear Website Cookies**
-Remove outdated or corrupted cookies specifically for `amazon.co.uk`.
 
-### **3. Disable Interference**
-Extensions like ad-blockers or privacy tools may block cookies.
-
-### **4. Check VPN Configuration**
-Some VPN endpoints cause cookie validation failure.
-
-<br>
-
----
-
-## ✦ **Quick Reference Table**
-
-| Step | Action | Purpose |
-|------|--------|---------|
-| 01 | Enable cookies | Required for login/session functions |
-| 02 | Clear site data | Removes corrupted entries |
-| 03 | Disable blockers | Ensures cookies aren’t blocked |
-| 04 | Adjust VPN | Prevents geo/cookie validation errors |
-
-<br>
-
----
 
 ## ✦ **Design Philosophy**
 
