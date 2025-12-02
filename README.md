@@ -19,10 +19,6 @@
 ## ✦ **Author**
 ### **Ragu**
 
-A clean, modern documentation created with a premium design philosophy — clarity, precision, and simplicity.
-
-<br>
-
 
 
 <div align="center">
